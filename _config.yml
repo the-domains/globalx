@@ -1,0 +1,96 @@
+typography_spectrum: 0.8320335589814931
+color:
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  brandStrength: 0.534237090498209
+  lightness: 0.31401201570406556
+  saturation: 0.7584634132217616
+  rhythmicContrast: 0.0006386600434780121
+layout_spectrum: 0.0392607725225389
+name: Global X Solutions
+url: 'http://www.globalxsolutions.org/'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: 'https://www.facebook.com/ArtificialxIntelligence/'
+    id: 3edb9890-a423-4948-8427-e2f8d16709e8
+    type: content
+title: Global X Solutions
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb9eeaf5-edb4-4089-aa81-aafb053b86cc.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb9eeaf5-edb4-4089-aa81-aafb053b86cc.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcdc9c57-30ee-41e5-965f-d8fbdfe5af38.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/dcdc9c57-30ee-41e5-965f-d8fbdfe5af38.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Investing in Tomorrow's Leaders
+author:
+  name: Ewa Tchorzewska
+  email: office@globalx.pl
+  url: 'http://www.globalx.pl/'
+analytics:
+  twitter: Global X
+  facebook: ' 561356607354344'
+  google: UA-111390797-1
+opengraph:
+  type: 'https://www.facebook.com/ArtificialxIntelligence/'
+  appId: '687680154650184'
+purpose:
+  - type: contact
+    url: 'tel:+48789421478'
+    label: Call +48789421478
+  - type: contact
+    url: 'mailto:office@globalx.pl'
+    label: Contact me
+github: true
