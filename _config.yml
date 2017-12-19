@@ -1,4 +1,3 @@
-layout_spectrum: 0.8268744277134353
 typography_spectrum: 0.835978769975447
 color:
   brandColors:
@@ -11,6 +10,19 @@ color:
   lightness: 0.31042601078887017
   saturation: 0.7546060016162066
   rhythmicContrast: 0.006612309012654247
+github: true
+opengraph:
+  type: 'https://www.facebook.com/ArtificialxIntelligence/'
+  appId: '687680154650184'
+layout_spectrum: 0.8268744277134353
+analytics:
+  twitter: Global X
+  facebook: ' 561356607354344'
+  google: UA-111390797-1
+author:
+  name: Ewa Tchorzewska
+  email: office@globalx.pl
+  url: 'http://www.globalx.pl/'
 name: Global X Solutions
 url: 'http://www.globalxsolutions.org/'
 colors:
@@ -24,6 +36,9 @@ navigation:
   - name: 'https://www.facebook.com/ArtificialxIntelligence/'
     id: 3edb9890-a423-4948-8427-e2f8d16709e8
     type: content
+  - name: CoBe Therapy ....about depresion
+    url: 'http://cobetherapy.com/'
+    type: external
 title: Global X Solutions
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -75,17 +90,6 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Investing in Tomorrow's Leaders
-author:
-  name: Ewa Tchorzewska
-  email: office@globalx.pl
-  url: 'http://www.globalx.pl/'
-analytics:
-  twitter: Global X
-  facebook: ' 561356607354344'
-  google: UA-111390797-1
-opengraph:
-  type: 'https://www.facebook.com/ArtificialxIntelligence/'
-  appId: '687680154650184'
 purpose:
   - type: contact
     url: 'tel:+48789421478'
@@ -93,4 +97,3 @@ purpose:
   - type: external
     url: 'http://www.globalx.pl/'
     label: 'http://www.globalx.pl/'
-github: true
