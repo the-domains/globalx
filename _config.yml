@@ -1,4 +1,5 @@
-typography_spectrum: 0.8320335589814931
+layout_spectrum: 0.8268744277134353
+typography_spectrum: 0.835978769975447
 color:
   brandColors:
     - '#000000'
@@ -6,11 +7,10 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-  brandStrength: 0.534237090498209
-  lightness: 0.31401201570406556
-  saturation: 0.7584634132217616
-  rhythmicContrast: 0.0006386600434780121
-layout_spectrum: 0.0392607725225389
+  brandStrength: 0.5370648528105294
+  lightness: 0.31042601078887017
+  saturation: 0.7546060016162066
+  rhythmicContrast: 0.006612309012654247
 name: Global X Solutions
 url: 'http://www.globalxsolutions.org/'
 colors:
