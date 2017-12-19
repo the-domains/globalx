@@ -90,7 +90,7 @@ purpose:
   - type: contact
     url: 'tel:+48789421478'
     label: Call +48789421478
-  - type: contact
-    url: 'mailto:office@globalx.pl'
-    label: Mail me
+  - type: external
+    url: 'http://www.globalx.pl/'
+    label: 'http://www.globalx.pl/'
 github: true
