@@ -33,9 +33,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: 'https://www.facebook.com/ArtificialxIntelligence/'
-    id: 3edb9890-a423-4948-8427-e2f8d16709e8
-    type: content
   - name: CoBe Therapy ....about depresion
     url: 'http://cobetherapy.com/'
     type: external
